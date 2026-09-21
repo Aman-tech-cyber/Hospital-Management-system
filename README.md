@@ -26,7 +26,7 @@ The project demonstrates relational database concepts, SQL queries, CRUD operati
 
 ## ER Diagram
 
-![Hospital ER Diagram](ER-Diagram/hospital_er_diagram.png)
+![Hospital ER Diagram](hospital_er_diagram.png)
 
 ## Database Tables
 
